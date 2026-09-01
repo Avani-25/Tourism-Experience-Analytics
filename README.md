@@ -1,9 +1,9 @@
-🌍 Tourism Experience Analytics
+🌍 **Tourism Experience Analytics**
 
 Classification, Prediction, and Recommendation System for tourism data — built as an end-to-end data science project covering data cleaning, EDA, machine learning, and deployment.
 
 ---
-📌 Overview
+📌 **Overview**
 
 This project analyzes tourism transaction data to:
 
@@ -14,12 +14,12 @@ Recommend attractions based on user preferences and attraction similarity (Recom
 All three are deployed together in an interactive Streamlit app.
 
 ---
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 Python · Pandas · Scikit-learn · Streamlit · Matplotlib/Seaborn · Excel/openpyxl
 
 ---
-🤖 Models
+🤖 **Models**
 
 Task	Model	                                    Key Metric	                                              Result
 Regression (Rating)	                         Random Forest (tuned)	                                        R²	
@@ -28,7 +28,7 @@ Recommendation (Collaborative)	                Item-based CF	                   
 Recommendation (Content-Based)	               Type-similarity	                                      Consistency check
 
 ---
-🔑 Key Insights
+🔑 **Key Insights**
 
 Nature & Wildlife Areas is the most-visited attraction type; Water Parks has the highest average rating.
 
