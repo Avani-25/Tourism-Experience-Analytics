@@ -28,6 +28,10 @@ Recommendation (Collaborative)	                Item-based CF	                   
 Recommendation (Content-Based)	               Type-similarity	                                      Consistency check
 
 ---
+📑**Project Report**
+
+
+
 🔑 **Key Insights**
 
 Nature & Wildlife Areas is the most-visited attraction type; Water Parks has the highest average rating.
